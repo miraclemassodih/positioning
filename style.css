@@ -1,0 +1,24 @@
+.peace{
+    background-color: rgb(12, 12, 143);
+    padding: 100px;
+    margin-bottom: 50px;
+    width: 40px;
+    height: 30px;
+    border-radius: 50px;
+    position: relative;
+    font-size: 20px;
+    float: right;
+    font-style: italic;
+    color: white;
+}
+.h1{
+    background-color: darkblue;
+    width: 700px;
+    height: 100px;
+    color: white;
+    border-radius: 100px;
+    text-align: center;
+    padding-top: 10px;
+    position: relative;
+    margin-top: 100px;
+}

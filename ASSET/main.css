@@ -1,0 +1,23 @@
+.fi{
+    background-color:palevioletred;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    left: 100px;
+    border-radius: 60px;
+    border: 2px solid black;
+}
+.mi{
+    background-color: palevioletred;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    border-radius: 60px;
+    left: 700px;
+    bottom: 500px;
+    border: 2px solid black;
+}
+.h1{
+    text-align: center;
+    color: salmon;
+}
